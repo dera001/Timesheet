@@ -37,9 +37,7 @@ dialog.
 
 I added extra for saving to CSV file
 
-# DELETE THIS FILE B4 PASSING YOUR ASSIGNMENT
 
-```
-contact me in case of issue
-Built with love 
+
+
 ```
